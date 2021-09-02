@@ -56,13 +56,13 @@ Link download database: https://drive.google.com/file/d/1bpoEUOycWQxGdm51n0dcduk
 
 3. ### Step 3:
 * Now, all the necessary pre-setups has completed.
-* You can display our webpage by open any web browser and access to the link: 
+* You can display our website by open any web browser and access to the link: 
 http://localhost:80/RelaxChill/
 **Note:** For who have changed the XAMPP apache server port, you also change port in our code by search "localhost:80" and replace with "localhost:<your-port>".
 
 ![](https://imgur.com/wuPSY5e.png)
 
-You also have to change the link to the webpage. 
+You also have to change the link to the website. 
 (Ex: http://localhost:8080/RelaxChill/)
 
 ![](https://media.giphy.com/media/89aw0r2YeRcCzklmPs/giphy.gif)
