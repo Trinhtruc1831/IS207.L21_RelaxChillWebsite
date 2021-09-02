@@ -1,7 +1,7 @@
 <?php
 //hứng kết quả truyền qua từ Musicmodel từ Home.php
 if(!isset($_SESSION['login'])){
-    header("location:http://localhost:8080/RelaxChill/Login");
+    header("location:http://localhost:80/RelaxChill/Login");
 }
 $username = $_SESSION['login']["username"];
 $userId = $_SESSION['login']["id"];

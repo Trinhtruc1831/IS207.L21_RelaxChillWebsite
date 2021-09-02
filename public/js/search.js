@@ -13,7 +13,7 @@ function mySearchMember() {
             document.getElementById("user").innerHTML = this.responseText;
         }
     };
-        xmlhttp.open("GET","http://localhost:8080/relaxchill/server/controller.php?action=searchMemberAjax&attribute="+attribute+"&keyword="+keyword,true);
+        xmlhttp.open("GET","http://localhost:80/relaxchill/server/controller.php?action=searchMemberAjax&attribute="+attribute+"&keyword="+keyword,true);
         xmlhttp.send();
     }
 }
@@ -35,7 +35,7 @@ function mySearchMusic() {
             document.getElementById("user").innerHTML = this.responseText;
         }
     };
-        xmlhttp.open("GET","http://localhost:8080/relaxchill/server/controller.php?action=searchMusicAjax&attribute="+attribute+"&keyword="+keyword,true);
+        xmlhttp.open("GET","http://localhost:80/relaxchill/server/controller.php?action=searchMusicAjax&attribute="+attribute+"&keyword="+keyword,true);
         xmlhttp.send();
     }
 }
@@ -57,7 +57,7 @@ function mySearchDiary() {
             document.getElementById("user").innerHTML = this.responseText;
         }
     };
-        xmlhttp.open("GET","http://localhost:8080/relaxchill/server/controller.php?action=searchDiaryAjax&attribute="+attribute+ "&keyword="+keyword,true);
+        xmlhttp.open("GET","http://localhost:80/relaxchill/server/controller.php?action=searchDiaryAjax&attribute="+attribute+ "&keyword="+keyword,true);
         xmlhttp.send();
     }
 }

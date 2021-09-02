@@ -1,13 +1,13 @@
 <?php
     if(!isset($_SESSION['login'])){
-        header("location:http://localhost:8080/RelaxChill/Login");
+        header("location:http://localhost:80/RelaxChill/Login");
     }
 ?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <base href="http://localhost:8080/RelaxChill/" />
+    <base href="http://localhost:80/RelaxChill/" />
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
