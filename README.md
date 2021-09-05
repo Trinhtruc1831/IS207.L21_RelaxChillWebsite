@@ -64,10 +64,10 @@ http://localhost:80/RelaxChill/
 
 You also have to change the link to the website. 
 (Ex: http://localhost:8080/RelaxChill/)
-
-![](https://media.giphy.com/media/89aw0r2YeRcCzklmPs/giphy.gif)
-
-![](https://media.giphy.com/media/VKb8rtNWtfZAPOJJF5/giphy.gif)
+ 
+<img src="https://media.giphy.com/media/89aw0r2YeRcCzklmPs/giphy.gif" width="900">
+ 
+<img src="https://media.giphy.com/media/VKb8rtNWtfZAPOJJF5/giphy.gif" width="900">
 
 3. ### Note:
  Our web was built in MVC so that all the codes was totally divided into 3 part Model-View-Controller.
