@@ -45,8 +45,7 @@ VSCode is an IDE used to develop the website.
 
 ![](https://imgur.com/ejTJaGO.png)
 
-* Import our database
-Link download database: https://drive.google.com/file/d/1bpoEUOycWQxGdm51n0dcdukrYzWAmKV1/view?usp=sharing
+* Import our database with the file: relaxchill.sql
 
 ![](https://imgur.com/maXT9z2.png)
 
